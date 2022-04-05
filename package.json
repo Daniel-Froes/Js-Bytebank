@@ -1,0 +1,20 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Projeto do bybank para seus clientes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artiscruelty/Js-Bytebank.git"
+  },
+  "author": "Daniel Froes",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/artiscruelty/Js-Bytebank/issues"
+  },
+  "homepage": "https://github.com/artiscruelty/Js-Bytebank#readme"
+}
